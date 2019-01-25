@@ -18,7 +18,6 @@ func getMilk(howManyMilkCartons : Int, howMuchMoneyRobotWasGiven : Int) -> Int {
     return change
 }
 
-
 //: Calls the function to triggered it to run and adds the parameter. The parameter gets passed to the function and it gets put into the placeholder
 var amounOfChange = getMilk(howManyMilkCartons: 1, howMuchMoneyRobotWasGiven: 10)
 
