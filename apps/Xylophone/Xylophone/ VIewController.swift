@@ -25,6 +25,8 @@ class ViewController: UIViewController{
             print("play middle C")
         } else if sender.tag == 2 {
             print("Chillow")
+        } else if sender.tag == 4 {
+            print("Fourth note")
         }
         
     }
